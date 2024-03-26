@@ -1,3 +1,5 @@
+package 무제;
+
 import java.util.Scanner;
 
 public class Welcome {
